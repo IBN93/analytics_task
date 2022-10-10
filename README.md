@@ -1,5 +1,5 @@
 ## Hello!
-If you're here, you should be an HR-manager. :)
+If you're here, you should be an HR-manager or Senior Analyst/Team Lead. :)
 
 
 Here I load some files/projects/miniprojects to prove my analytical hard-skills (now junior-level). 
